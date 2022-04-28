@@ -1,8 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h1 align="center">Hi 👋, I'm Vinayak Patrut</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Raju Prajapati</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
-<p align="left"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="vinayak2882" /> </p>
+
+<!-- <p align="left"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="vinayak2882" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayak2882" alt="vinayak2882" /></a> </p>
 
