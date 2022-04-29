@@ -7,9 +7,15 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayak2882" alt="vinayak2882" /></a> </p> -->
 
-<!-- <p align="left"> <a href="https://twitter.com/vinayak.patrut" target="blank"><img src="https://img.shields.io/twitter/follow/vinayak.patrut?logo=twitter&style=for-the-badge" alt="vinayak.patrut" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/vinayakpatrut1" target="blank"><img src="https://img.shields.io/twitter/follow/vinayakpatrut1?logo=twitter&style=for-the-badge" alt="vinayak.patrut" /></a> </p>
  -->
+ 
+ <br/>
+<br/>
+
 ## 🙋‍♂️ About Me
+
+<br/>
 
 - 🔭 I’m currently learning React.js
 
@@ -30,6 +36,8 @@
 
 
 ## 🚀 Languages and Tools:
+<br/>
+
 
 <p align="left"> 
        <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -73,10 +81,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vinayak.patrut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinayak.patrut" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vinayak-patrut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayak-patrut" height="30" width="40" /></a>
-<a href="https://fb.com/vinayak patrut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinayak patrut" height="30" width="40" /></a>
-<a href="https://instagram.com/vinayak_patrut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinayak_patrut" height="30" width="40" /></a>
+<a href="https://twitter.com/vinayakpatrut1" target="blank"><img align="center" src="https://raw.githubusercontent.com/vinayak2882/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinayak.patrut" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vinayak-patrut" target="blank"><img align="center" src="https://raw.githubusercontent.com/vinayak2882/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayak-patrut" height="30" width="40" /></a>
+<a href="https://fb.com/vinayak patrut" target="blank"><img align="center" src="https://raw.githubusercontent.com/vinayak2882/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinayak patrut" height="30" width="40" /></a>
+<a href="https://instagram.com/vinayak_patrut" target="blank"><img align="center" src="https://raw.githubusercontent.com/vinayak2882/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinayak_patrut" height="30" width="40" /></a>
 </p>
 <br/>
 <br/>
