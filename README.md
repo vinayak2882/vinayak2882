@@ -23,7 +23,7 @@
 
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 
-- 👨‍💻 All of my projects are available at *[My Portfolio](https://google.com)*
+- 👨‍💻 All of my projects are available at *[My Portfolio](https://vinayak-portfolio.vercel.app/)*
 
 - 📫 How to reach me **vinayak.patrut@gmail.com**
 
